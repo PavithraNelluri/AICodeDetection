@@ -1,6 +1,7 @@
 # AI Code Detection
 
 AI Code Detection is a web application that helps determine whether a given piece of code is AI-generated or human-written. It offers both code analysis via text input and file upload options, supporting multiple languages including Python, JavaScript, HTML, CSS and so on.
+### Try Here: https://aicodedetection.onrender.com
 
 ## Features
 
